@@ -1,3 +1,3 @@
 <?php
 
-echo "hello 123 ddcc";
+echo "hello";
